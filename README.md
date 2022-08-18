@@ -23,7 +23,7 @@
 
 ## Objective
 
-Build a Landing that is functionally similar to this: [Parallax Website](https://mark-mad.github.io/parallax-website/)
+Build a Landing that is functionally similar to this: [Parallax Website](https://tal58.github.io/Parallax_Website/)
 
 
 <center> ⌛ Happy Coding  ✍ </center>
